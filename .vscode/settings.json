@@ -1,0 +1,5 @@
+{
+    "java.project.referencedLibraries": [
+        "Day5/*.jar"
+    ]
+}
